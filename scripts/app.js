@@ -196,8 +196,8 @@
         ];
         app.saveSelectedCities();
       }
-    });    
+    });
   });
 
-
+//sample commit
 })();
